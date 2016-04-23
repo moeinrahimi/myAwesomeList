@@ -4,6 +4,7 @@ JavaScript Libraries
 ======
 
 [zoom anything](https://github.com/yyx990803/zoomerang)
+[Pace the progress bar](http://github.hubspot.com/pace/docs/welcome/)
 
 
 PHP 
