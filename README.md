@@ -27,4 +27,5 @@ Design Frameworks
 Useful Resources
 ===
 - [A collective list of public JSON APIs for use in web development](https://github.com/toddmotto/public-apis)
+- [Mobile descriotion Api](https://github.com/shakee93/fonoapi)
 
