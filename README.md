@@ -13,6 +13,7 @@ JavaScript Libraries
 PHP 
 =====
 - [tracy dubugger](https://github.com/nette/tracy)
+- [ composer parallel install plugin ](https://github.com/hirak/prestissimo)
 
 
 LARAVEL
