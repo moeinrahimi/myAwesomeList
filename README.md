@@ -29,4 +29,6 @@ Useful Resources
 ===
 - [A collective list of public JSON APIs for use in web development](https://github.com/toddmotto/public-apis)
 - [Mobile descriotion Api](https://github.com/shakee93/fonoapi)
+-[how to become pro in everything](https://github.com/vic317yeh/One-Click-to-Be-Pro)
+
 
